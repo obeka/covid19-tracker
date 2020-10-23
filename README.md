@@ -1,70 +1,57 @@
-Working site: https://covid19-tracker-obeka.netlify.app/
+# Covid19 Tracker
+> :chart: You can get the lastest numbers of Covid cases from all over the world. Working site : https://covid19-tracker-obeka.netlify.app/ :chart:
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Table of contents
+- [YourPlaces](#yourplaces)
+  - [Table of contents](#table-of-contents)
+  - [General info](#general-info)
+  - [Technologies](#technologies)
+  - [How to use](#how-to-use)
+  - [Features](#features)
+  - [Screenshots](#screenshots)
+  - [Inspiration](#inspiration)
+  - [Contact](#contact)
 
-## Available Scripts
+## General info
+This project is built to improve React skills as well as Material UI and Chart.js
 
-In the project directory, you can run:
+## Technologies
+* React.js - version 16.13.1
+* Chart.js - version 2.9.3
+* Material UI - version 4.11.0
 
-### `npm start`
+## How to use
+To clone and run this application, you'll need Git and Node.js (which comes with npm) installed on your computer.
+```bash
+# Clone this repository
+$ git clone https://github.com/obeka/covid19-tracker.git
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+# Go into the covid19-tracker folder
+$ cd covid19-tracker 
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+# Install dependencies
+$ npm install
 
-### `npm test`
+# Run the app
+$ npm start
+```
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Features
+* Total number of infected, recoveries and death cases from all over the world
+* Select a country to view the cases of that country
+* Filter Infected and Deaths on the Chart
 
-### `npm run build`
+## Screenshots
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+![Example screenshot](https://i.postimg.cc/6p6X8hXH/1.png)
+![Example screenshot](https://i.postimg.cc/RZPzKnCv/2.png)
+![Example screenshot](https://i.postimg.cc/0jqgPYn0/5.png)
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+# On mobile : 
+![Example screenshot](https://i.postimg.cc/0yzVX6dk/3.png) ![Example screenshot](https://i.postimg.cc/28MQ60hY/4.png)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Inspiration
+Based on a YouTube tutorial. [Link to the video:](https://www.youtube.com/watch?v=khJlrj3Y6Ls)
 
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+## Contact
+:mailbox_with_mail: You can send me email : omerbkk06@gmail.com :mailbox_with_mail:
