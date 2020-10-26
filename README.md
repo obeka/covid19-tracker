@@ -2,7 +2,7 @@
 > :chart: You can get the lastest numbers of Covid cases from all over the world. Working site : https://covid19-tracker-obeka.netlify.app/ :chart:
 
 ## Table of contents
-- [YourPlaces](#yourplaces)
+- [Covid19 Tracker](#covid19-tracker)
   - [Table of contents](#table-of-contents)
   - [General info](#general-info)
   - [Technologies](#technologies)
